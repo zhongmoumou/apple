@@ -1,0 +1,28 @@
+.main {
+    overflow: auto;
+  background: #e8eae9;
+}
+.box1 {
+  height: 100px;
+  float: left;
+  margin: 10px;
+  width: 200px;
+  border: 1px solid #eee;
+  background: #8ec63f;
+}
+.box2 {
+  height: 100px;
+  float: left;
+  margin: 10px;
+  width: 200px;
+  border: 1px solid #eee;
+  background: #8ec63f;
+}
+.box3 {
+  height: 100px;
+  float: left;
+  margin: 10px;
+  width: 200px;
+  border: 1px solid #eee;
+  background: #8ec63f;
+}

@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Task002</title>
+</head>
+<body>
+	<h1>我最爱的小说</h1>
+		<ul>
+			<li><a href="http://book.qidian.com/info/3362920">天域苍穹</a></li>
+		</ul>
+		<ul>
+			<li><a href="http://book.qidian.com/info/1003354631">一念永恒</a></li>
+		</ul>
+		<ul>
+			<li><a href="http://book.zongheng.com/book/408586.html?fr=pc_alading">逆天邪神</a></li>
+		</ul>
+		<ul>
+			<li><a href="http://book.qidian.com/info/3347595">择天记</a></li>
+		</ul>
+	<h2>先介绍两个吧</h2>
+	<h3>择天记</h3>
+	<span>猫腻</span> &nbsp &nbsp <span>2017.02.26</span>
+	<p>猫腻，著名网络作家，曾用作者名北洋鼠，原名晓峰。七十年代生人，湖北夷陵人，曾就学于川大，因惫懒故被逐。处女作《映秀十年事》。</p>
+	<br>
+	<p>2005年开始连载《朱雀记》，成为新浪年度最受欢迎的作品，获得2007年新浪原创文学奖玄幻类金奖。2007年开始连载《庆余年》，引起巨大的反响，其文字风格细腻，架构有序，情节跌宕，内涵深刻。</p>
+	<br>
+	<p>在连载《庆余年》期间他创作过作品《间客》，而后《将夜》同在网络连载，依旧好评如潮。 2014年4月《将夜》完结后，新作<a href="http://book.qidian.com/info/3347595">《择天记》</a>于2014年5月28日在腾讯文学旗下<strong>创世中文网</strong>连载。一经推出便广受好评，蝉联人气榜冠军。</p></a>
+	<img src="tree.jpg" width="300" height="300">
+	<p>腾讯文学签约玄幻作家猫腻及其新书，《择天记》投入5000万改编的2D动漫大作预告腾讯视频首发。</p>
+	<br>
+	<p>2014年5月29日，腾讯文学CEO吴文辉宣布，知名网络小说作家猫腻将携其新作品<strong>《择天记》</strong>入驻<a href="">腾讯文学</a>。[8]  同时，投资5000万对该作品进行动画制作。</p>
+	<h2>再介绍最后一个</h2>
+	<h3>一念永恒</h3>
+	<span>耳根</span> &nbsp &nbsp <span>2017.02.26</span>
+	<p>耳根，男，原名刘勇，黑龙江牡丹江人，八零后，喜爱中国古典神话故事，并以此为基础，进行网络小说的创作。</p>
+	<br>
+	<p>。作者现已成为起点仙侠类小说的一面旗帜。其主要代表作 《我欲封天》，《仙逆》，《仙逆》受到无数读者的喜爱，为之倾倒。</p>
+	<br>
+	<p>从默默无闻到榜上有名，一步一脚印，厚积薄发，以其独特的文风得到诸多读者支持！
+耳根所著三本书中，<a href="">《仙逆》</a>以其独特的情节构思在仙侠类型中独树一帜，尤其是化神阶段先化凡这一情节，受人称赞！
+<strong>一念成沧海，一念化桑田。一念斩千魔，一念诛万仙。唯我念……永恒</strong></p>
+	<img src="tree.jpg" width="300" height="400">
+	<ul>
+		<li>笔趣网可以免费看</li>
+		<li>八一中文网可以免费看</li>
+		<li>顶下小说可以免费看</li>
+	</ul>
+	<h4>来几张树的图片给大家看看</h4>
+	<p>树</p>
+	<img src="tree.jpg" width="300" height="300"><br>
+	<p>树</p>
+	<img src="tree.jpg" width="300" height="300"><br>
+	<p>树</p>
+	<img src="tree.jpg" width="300" height="300"><br>
+	<h2>自我评价</h2>
+	<h3>对比</h3>
+	<span>wilson</span> &nbsp &nbsp <span>2017.02.28</span>
+	<ol>
+		<li>一念永恒</li>
+		<li>择天记</li>
+		<li>天域苍穹</li>
+	</ol>
+	<p>下面是一个表格，给表格加了“border=1”方便你能看出来这是一个表格</p>
+	<table border=“1”>
+		<tr>
+			<th>表头</th>
+			<th>表头</th>
+			<th>表头</th>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>表内容单元格</td>
+			<td>表内容单元格</td>
+			<td>操作</td>
+		</tr>
+		<tr>
+			<td>共计</td>
+			<td colspan="2">1000</td>
+		</tr>
+	</table>
+	<p>这里以后是一个侧边栏，这是侧边栏的标题</p>
+	<P>侧边栏注册窗口标题</P>
+	<form>
+	请输入邮箱注册地址：<input type="text" name="address">
+	<br>
+	邮箱地址请按照要求格式输入
+	<br>
+	请输入密码：<input type="password" name="pass">	请重复输入密码：<input type="password" name="pass">
+	<br>
+	密码请为6-16位英文数字
+	<br>
+	性别：<input type="radio" name="danxua">男	<input type="radio" name="danxua">女
+	<!-- <br> -->
+	城市：
+	<select>
+		<option>北京</option>
+		<option>上海</option>
+		<option>南京</option>
+		<option>杭州</option>
+		<option>深圳</option>
+	</select>
+	<!-- <br> -->
+	爱好：
+	<input type="checkbox" name="fuxuan">运动
+	<input type="checkbox" name="fuxuan">艺术
+	<input type="checkbox" name="fuxuan">科学
+	<!-- <br> -->
+	个人描述：
+	<textarea rows="3" cols="30"></textarea>
+	<input type="submit" name="tijiao">
+	</form>
+	<p>版权所有&copy</p>
+</body>
+</html>

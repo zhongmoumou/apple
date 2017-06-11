@@ -1,0 +1,57 @@
+body {
+    padding: 20px;
+}
+
+.main {
+/*    overflow: hidden;
+    display:inline-block;*/
+    height: 100%;
+    margin:0;
+    padding: 20px;
+    border:1px solid #999;
+    background-color: #eee;
+    /*box-sizing: border-box;*/
+}
+
+.clear {
+    clear: both;
+}
+
+.left {
+    float: left;
+    width: 200px;
+    padding: 20px;
+    border: 1px solid #999;
+    background-color: red;
+    box-sizing: border-box; /*非常有用*/
+}
+img {
+    float: left;
+    vertical-align:left;
+    display:block;
+}
+span {
+    float: right;
+}
+
+.center {
+    overflow: hidden;
+    margin:0 141px 0 221px;
+    padding: 20px;
+    border: 1px solid #999;
+    /*box-sizing: border-box;*/
+}
+
+.right {
+    float: right;
+    /*padding: 20px;*/
+    width: 120px;
+    height: 422px;
+    border: 1px solid #999;
+    background-color: blue;
+    box-sizing: border-box;
+}
+.right img {
+    padding: 20px;
+    margin-bottom: -20px;
+}
